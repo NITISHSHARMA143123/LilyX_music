@@ -1,7 +1,7 @@
 {
-    "name": "ɴɪᴅʜɪ ダ ᴍᴜsɪᴄ",
+    "name": "ʟɪʟʏ ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/56d1760224589ee370186.jpg",
+    "logo": "https://telegra.ph/file/e4829e063f7c3f3bb3c46.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -13,52 +13,52 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "𝐀𝐏𝐈 𝐈𝐃 𝐃𝐀𝐋 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐃𝐀𝐋 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐃𝐀𝐋 𝐏𝐀𝐃𝐇 𝐌𝐀𝐓",
         "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com.",
+        "description": "𝐌𝐎𝐍𝐆𝐎 𝐃𝐁 𝐃𝐀𝐋 𝐁𝐒𝐃𝐊",
         "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
+        "description": "𝐊𝐎𝐈 𝐁𝐇𝐈 𝐅𝐎𝐍𝐓 𝐔𝐒𝐄 𝐊𝐀𝐑𝐋𝐄 𝐊𝐎𝐈 𝐃𝐈𝐊𝐊𝐀𝐓 𝐍𝐇𝐈 𝐃𝐈𝐊𝐊𝐀𝐓 𝐇𝐔𝐈 𝐓𝐎𝐇 𝐂𝐇𝐀𝐍𝐆𝐄 𝐊𝐀𝐑 𝐋𝐄𝐍𝐀.",
         "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "𝐎𝐖𝐍𝐄𝐑 𝐈'𝐃 𝐃𝐀𝐋.",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "𝐕𝟐 𝐒𝐓𝐑𝐈𝐍𝐆 𝐃𝐀𝐋𝐍𝐀 𝐁𝐄𝐇𝐀𝐍𝐂𝐇𝐎.",
         "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "description": "𝐇𝐄𝐑𝐎𝐊𝐔 𝐀𝐏𝐈 𝐃𝐀𝐋",
         "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
-        "description": "Your heroku app/bot's name",
+        "description": "𝐔𝐏𝐀𝐑 𝐖𝐀𝐋𝐀 𝐍𝐀𝐌𝐄 𝐘𝐀𝐇𝐀 𝐃𝐀𝐋 ",
         "value": "",
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐃𝐀𝐋 𝐀𝐔𝐑 𝐇𝐀 𝐔𝐒𝐒 𝐆𝐂 𝐌𝐄 𝐁𝐎𝐓 𝐀𝐔𝐑 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓 𝐈'𝐃 𝐊𝐎 𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐍𝐀 𝐃𝐄 𝐕𝐀𝐑𝐍𝐀 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀𝐘𝐄𝐆𝐀.",
         "value": "",
         "required": true
       }
