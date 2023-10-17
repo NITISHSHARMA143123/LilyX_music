@@ -61,13 +61,13 @@
         "description": "𝐋𝐎𝐆 𝐆𝐑𝐎𝐔𝐏 𝐈𝐃 𝐃𝐀𝐋 𝐀𝐔𝐑 𝐇𝐀 𝐔𝐒𝐒 𝐆𝐂 𝐌𝐄 𝐁𝐎𝐓 𝐀𝐔𝐑 𝐀𝐒𝐒𝐈𝐒𝐓𝐀𝐍𝐓 𝐈'𝐃 𝐊𝐎 𝐀𝐃𝐌𝐈𝐍 𝐁𝐀𝐍𝐀 𝐃𝐄 𝐕𝐀𝐑𝐍𝐀 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀𝐘𝐄𝐆𝐀.",
         "value": "",
         "required": true
-      }, 
-        "SPOTIFY_CLIENT_SECRET": {
-        "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.",
+      },
+      "SPOTIFY_CLIENT_SECRET": {
+        "description": "𝐔𝐏𝐀𝐑 𝐖𝐀𝐋𝐀 𝐍𝐀𝐌𝐄 𝐘𝐀𝐇𝐀 𝐃𝐀𝐋 ",
         "value": "",
-        "required": true     
-        }, 
-         "SPOTIFY_CLIENT_ID": {
+        "required": true
+      }, 
+        "SPOTIFY_CLIENT_ID": {
         "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.",
         "value": "",
         "required": true     
