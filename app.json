@@ -63,7 +63,7 @@
         "required": true
       },
       "SPOTIFY_CLIENT_SECRET": {
-        "description": "𝐔𝐏𝐀𝐑 𝐖𝐀𝐋𝐀 𝐍𝐀𝐌𝐄 𝐘𝐀𝐇𝐀 𝐃𝐀𝐋 ",
+        "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.",
         "value": "",
         "required": true
       }, 
