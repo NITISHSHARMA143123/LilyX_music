@@ -62,17 +62,17 @@
         "value": "",
         "required": true
       }, 
-        "SPOTIFY_CLIENT_ID": {
+        "SPOTIFY_CLIENT_SECRET": {
         "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.", 
             "value": "", 
         "required" true
         }, 
-         "SPOTIFY_CLIENT_SECRET": {
-          "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.", 
-            "value": "", 
-        "required" true
-}, 
-  },
+         "SPOTIFY_CLIENT_ID": {
+        "description": "𝐃𝐀𝐋 𝐋𝐄 𝐕𝐀𝐈 𝐄𝐑𝐑𝐎𝐑 𝐀𝐀 𝐒𝐀𝐊𝐓𝐀 𝐇𝐀𝐈.",
+        "value": "",
+        "required": true     
+     }
+       }, 
     "buildpacks": [
           {
               "url": "heroku/python"
